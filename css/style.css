@@ -23,7 +23,7 @@
   }
 
   body{
-    background-image: url("/img/background-blue.jpg");
+    background-image: url("../img/background-blue.jpg");
     color: white;
   }
 
