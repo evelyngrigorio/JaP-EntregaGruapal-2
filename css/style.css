@@ -4,6 +4,7 @@
 
   main {
     min-height: calc(100vh - 215px);
+    color: white;
   }
 
   .cont {
@@ -23,7 +24,7 @@
   }
 
   body{
-    background-color: darkcyan;
+    background-image: url("../img/background-blue.jpg");
     color: white;
   }
 
